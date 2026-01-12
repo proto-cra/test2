@@ -22,10 +22,10 @@ graph TD;
 
 ```mermaid
 graph TD;
-    A-- > B;
-    A-- > C;
-    B-- > D;
-    C-- > D;
+    A--> B;
+    A--> C;
+    B--> D;
+    C--> D;
 ```
 
 ## Overview
