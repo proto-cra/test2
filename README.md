@@ -6,6 +6,9 @@
 
 ## Test Mermaid edit
 ```mermaid
+  info
+```
+```mermaid
 graph TD;
     A-- > B;
     A-- > C;
