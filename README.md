@@ -9,6 +9,15 @@
 ```mermaid
   info
 ```
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ## Test Mermaid edit
 
 ```mermaid
