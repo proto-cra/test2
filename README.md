@@ -4,10 +4,13 @@
 
 **COP timeframe** 2025-12-29 - 2026-04-06
 
-## Test Mermaid edit
+## Mermaid version
+
 ```mermaid
   info
 ```
+## Test Mermaid edit
+
 ```mermaid
 graph TD;
     A-- > B;
